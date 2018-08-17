@@ -1,4 +1,4 @@
-package com.goldsuo.wechatprodemo;
+package com.goldsudo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

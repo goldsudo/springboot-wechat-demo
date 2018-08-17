@@ -1,4 +1,4 @@
-package com.goldsuo.entity;
+package com.goldsudo.entity;
 
 import java.util.Date;
 
